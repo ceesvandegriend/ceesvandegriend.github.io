@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog Cees van de Griend - run</title><link href="https://ceesvandegriend.github.io/" rel="alternate"></link><link href="https://ceesvandegriend.github.io/feeds/run.atom.xml" rel="self"></link><id>https://ceesvandegriend.github.io/</id><updated>2022-09-18T00:00:00+02:00</updated><entry><title>Solo - start2run</title><link href="https://ceesvandegriend.github.io/solo-start2run.html" rel="alternate"></link><published>2022-09-18T00:00:00+02:00</published><updated>2022-09-18T00:00:00+02:00</updated><author><name>Cees van de Griend</name></author><id>tag:ceesvandegriend.github.io,2022-09-18:/solo-start2run.html</id><content type="html">&lt;div class='strava-embed-placeholder' data-embed-type='activity' data-embed-id='7826309971'&gt;&lt;/div&gt;
+&lt;script src='https://strava-embeds.com/embed.js'&gt;&lt;/script&gt;
+
+&lt;p&gt;I did a solo run with my partner.&lt;/p&gt;
+&lt;p&gt;Felt good, a litle bit of drizzle.&lt;/p&gt;</content><category term="run"></category></entry></feed>
