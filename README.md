@@ -8,3 +8,7 @@ $ pip3 install -U pip wheel
 $ pip3 install -U "pelican[markdown]"
 ...
 ```
+
+```
+ln -sf docs output
+```
